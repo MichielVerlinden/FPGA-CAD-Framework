@@ -19,7 +19,6 @@ d) "Grant Back Software":  refers to any
         1) modification of the objects distributed as the Software, including but not limited to the addition, deletion, and modification of verbs and properties on the objects, 
         2) creation of children to the objects distributed as the Software. 
 e) "Copyright Holder": refers to Universiteit Gent - Ghent University, public institution with legal personality, having its administrative offices in Belgium, B-9000 Gent, Sint-Pietersnieuwstraat 25 (herein also referred to as "UGent")
-f) "Non-Commercial Purpose":  refers to use of the Licensed Software solely for the purpose of education or research. "Non-Commercial Purpose" excludes, without limitation, any use of the Software as part of or in connection with a product (including software) or service which is sold, offered for sale, licensed, leased, loaned or rented.
 
 (3) Adaptations  -  Licensee may create Adaptations of the Licensed Software only if 
     a. Licensee treats the Adaptations as Licensed Software under this Agreement, and 
@@ -33,9 +32,8 @@ f) "Non-Commercial Purpose":  refers to use of the Licensed Software solely for 
 Licensee shall provide UGent with copies of Grant Back Software in source code form dirk.stroobandt@ugent.be. 
 
 (5) Distributing and Receiving Adaptations  -  Licensee may provide an Adaptation to other people or entities only if:
-    a. either such other people or entities have already downloaded the Licensed Software directly from UGent and have agreed to the same terms as this Agreement, and 
-    b. the Adaptation is provided by Licensee for Non-Commercial Purposes, without any charge or fee, 
-    c. the Adaptation is provided with a short summary of the difference between the Adaptation and the Licensed Software downloaded from UGent, 
+    a. such other people or entities agrees to the terms as this Agreement, and  
+    b. the Adaptation is provided with a short summary of the difference between the Adaptation and the Licensed Software downloaded from UGent, 
     d. such other people or entities treat the Adaptation as Licensed Software under this Agreement with UGent, and 
     e. before Licensee sends such Adaptation to any other people or entities, Licensee first provides UGent with a copy of the Adaptation (in source code form) and the summary. 
 Licensee shall treat as Licensed Software under this Agreement any Adaptation it may receive from another person or entity.
@@ -58,7 +56,8 @@ By way of example only, UGent does not warrant that the Licensed Software will b
 
 (11) Termination  -  This Agreement and the rights granted to Licensee shall terminate automatically if Licensee fails to comply with any of the terms and conditions of this Agreement. Upon termination, all licenses granted herein shall terminate and Licensee shall immediately destroy all copies of the Licensed Software. 
 
-(12) Applicable Law  -  This Agreement shall be governed by and construed in accordance with the laws of the Belgium, without regard to its conflicts of law rules. The Commercial courts of Gent, Belgium are exclusively competent. 
+(12) Applicable Law  -  This Agreement shall be governed by and construed in accordance with the laws of the Belgium, without regard to its conflicts of law rules. The 
+Commercial courts of Gent, Belgium are exclusively competent. 
 
 (13) Assignment  -  Neither this Agreement nor any of Licensee's rights hereunder shall be assigned, sublicensed, or transferred (in insolvency proceedings, by mergers, acquisitions or otherwise) by Licensee without the written consent of UGent. Any assignment or other transfer which is inconsistent with the foregoing shall be null and void ab initio. UGent may assign all or a portion of its rights and obligations hereunder. 
 
